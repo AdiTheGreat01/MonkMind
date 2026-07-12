@@ -10,7 +10,7 @@ There's no backend here by design. All data (users, quizzes, and quiz attempts) 
 
 ## Live Demo
 
-[View Live Demo](#) *(replace with your deployed link, e.g. GitHub Pages, Netlify, or Vercel)*
+https://monkmind.netlify.app/
 
 ## Screenshots
 
