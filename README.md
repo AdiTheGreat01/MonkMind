@@ -12,22 +12,6 @@ There's no backend here by design. All data (users, quizzes, and quiz attempts) 
 
 https://monkmind.netlify.app/
 
-## Screenshots
-
-| Home | Quiz Creation |
-|---|---|
-| ![Home page](./screenshots/home.png) | ![Create quiz page](./screenshots/create-quiz.png) |
-
-| Browse Quizzes | Quiz in Progress |
-|---|---|
-| ![Browse quizzes page](./screenshots/browse-quizzes.png) | ![Taking a quiz](./screenshots/quiz-play.png) |
-
-| Results |
-|---|
-| ![Quiz results page](./screenshots/results.png) |
-
-*(Add your own screenshots to a `/screenshots` folder and update the paths above.)*
-
 ## Key Features
 
 - **User accounts** — register and log in; session persists across page reloads
